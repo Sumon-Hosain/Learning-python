@@ -3,5 +3,12 @@ my_dict={
     'mamun':[30,40,50],
     'ram':[40,45,50]
 }
-for values in my_dict.items():
-    print(values)
+for everthing in my_dict.items():  #for accesssing everthing of dictionaries
+    print(everthing)
+
+for key in my_dict.keys():    # for accssing key of dictionaries
+    print(key)
+
+
+for value in my_dict.values():  #for accesing values of dicttionaries
+    print(value)
