@@ -6,7 +6,6 @@ class Human():
         print('Hosain')
 
 h=Human()
-h.name()
 print(h.name)             #this is how to show something from __init__ function
 
 h.other()                 #normal way to 
